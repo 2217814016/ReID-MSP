@@ -1,5 +1,7 @@
-# ReID-MSP
-VIDEO RE-IDENTIFICATION BASED ON MULTI-LEVEL SELF-PACED LEARNING
+# Video Re-Identification Based on Multi-Level Self-Paced Learning
+
+This README provides the supplementary material (Appendix) of our paper, organized into Sections 1–6 for easy navigation.
+
 
 ## 1. Analysis of Existing Datasets
 
