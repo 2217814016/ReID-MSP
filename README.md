@@ -233,7 +233,7 @@ Fig. **2** shows the loss decay curves. The baseline loss combines cross-entropy
   <tbody>
     <tr>
       <td style="width:50%; padding:12px; vertical-align:top; text-align:center;">
-        <img src="images/log_train_PSTA_MARS-REAL.png" style="width:70%; height:auto; display:block; margin:0 auto;" />
+        <img src="images/log_train_PSTA_MARS-REAL.png" style="width:50%; height:auto; display:block; margin:0 auto;" />
         <div style="margin-top:8px; font-style:italic;">Baseline Model (MARS-REAL)</div>
       </td>
       <td style="width:50%; padding:12px; vertical-align:top; text-align:center;">
@@ -243,7 +243,7 @@ Fig. **2** shows the loss decay curves. The baseline loss combines cross-entropy
     </tr>
     <tr>
       <td style="width:50%; padding:12px; vertical-align:top; text-align:center;">
-        <img src="images/log_train_SPL_MARS-REAL.png" style="width:70%; height:auto; display:block; margin:0 auto;" />
+        <img src="images/log_train_SPL_MARS-REAL.png" style="width:50%; height:auto; display:block; margin:0 auto;" />
         <div style="margin-top:8px; font-style:italic;">Multi-level Self-Paced Learning (MARS-REAL)</div>
       </td>
       <td style="width:50%; padding:12px; vertical-align:top; text-align:center;">
