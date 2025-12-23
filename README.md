@@ -187,9 +187,9 @@ Table **2** summarizes the parameter ranges and example effects of five types of
 
 As shown in Fig. **1**, the decrease in Rank-1 performance is smaller than that in mAP. Rank-1 measures the accuracy of retrieving the single most relevant match, reflecting performance on the simplest samples. In contrast, mAP considers all correct matches in the gallery, so any error reduces the score. In realistic datasets, simple samples remain, but some samples become harder, increasing the proportion of difficult samples. This requires higher model robustness. Therefore, Rank-1 drops slightly, while mAP drops significantly, indicating current models struggle with hard samples.
 
-**Fig. 1. Rank-1 Performance of Existing Methods in Realistic Scenarios**
+<p align="center"><strong>Fig. 1. Rank-1 Performance of Existing Methods in Realistic Scenarios</strong></p>
+<p align="center"><img src="images/original_vs_real_rank1.png" width="60%"></p>
 
-<p><img src="images/original_vs_real_rank1.png" width="60%"></p>
 
 
 
