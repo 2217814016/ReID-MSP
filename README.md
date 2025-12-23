@@ -233,21 +233,21 @@ Fig. **2** shows the loss decay curves. The baseline loss combines cross-entropy
   <tbody>
     <tr>
       <td style="width:50%; padding:12px; vertical-align:top; text-align:center;">
-        <img src="images/log_train_PSTA_MARS-REAL.png" style="width:100%; height:auto; display:block; margin:0 auto;" />
+        <img src="images/log_train_PSTA_MARS-REAL.png" style="width:420; height:auto; display:block; margin:0 auto;" />
         <div style="margin-top:8px; font-style:italic;">Baseline Model (MARS-REAL)</div>
       </td>
       <td style="width:50%; padding:12px; vertical-align:top; text-align:center;">
-        <img src="images/log_train_PSTA_Duke-REAL.png" style="width:100%; height:auto; display:block; margin:0 auto;" />
+        <img src="images/log_train_PSTA_Duke-REAL.png" style="width:420; height:auto; display:block; margin:0 auto;" />
         <div style="margin-top:8px; font-style:italic;">Baseline Model (Duke-REAL)</div>
       </td>
     </tr>
     <tr>
       <td style="width:50%; padding:12px; vertical-align:top; text-align:center;">
-        <img src="images/log_train_SPL_MARS-REAL.png" style="width:100%; height:auto; display:block; margin:0 auto;" />
+        <img src="images/log_train_SPL_MARS-REAL.png" style="width:420; height:auto; display:block; margin:0 auto;" />
         <div style="margin-top:8px; font-style:italic;">Multi-level Self-Paced Learning (MARS-REAL)</div>
       </td>
       <td style="width:50%; padding:12px; vertical-align:top; text-align:center;">
-        <img src="images/log_train_SPL_Duke-REAL.png" style="width:100%; height:auto; display:block; margin:0 auto;" />
+        <img src="images/log_train_SPL_Duke-REAL.png" style="width:420; height:auto; display:block; margin:0 auto;" />
         <div style="margin-top:8px; font-style:italic;">Multi-level Self-Paced Learning (Duke-REAL)</div>
       </td>
     </tr>
