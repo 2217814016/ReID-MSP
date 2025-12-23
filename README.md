@@ -189,7 +189,7 @@ As shown in Fig. **1**, the decrease in Rank-1 performance is smaller than that 
 
 **Fig. 1. Rank-1 Performance of Existing Methods in Realistic Scenarios**
 
-![Rank-1 Performance of Existing Methods in Realistic Scenarios](images/original_vs_real_rank1.png)
+<p><img src="images/original_vs_real_rank1.png" width="60%"></p>
 
 
 
