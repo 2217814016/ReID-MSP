@@ -253,4 +253,4 @@ Fig. **2** shows the loss decay curves. The baseline loss combines cross-entropy
     </tr>
   </tbody>
 </table>
-<div style="margin-top:8px; text-align:center;"><strong>Figure:</strong> Loss decay curves of baseline and multi-level self-paced learning models</div>
+<div style="margin-top:8px; text-align:center;"><strong>Figure 2:</strong> Loss decay curves of baseline and multi-level self-paced learning models</div>
